@@ -1,4 +1,9 @@
+
+
 # TicTacToe
+![](screenshots/angular%20tic2.png)
+![](screenshots/angularTic1.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
